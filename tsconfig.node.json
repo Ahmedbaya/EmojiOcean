@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "jsx": "react",
     "strict": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "composite": true
   },
   "references": [
     { "path": "./tsconfig.app.json" },
