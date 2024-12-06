@@ -1,11 +1,15 @@
 {
-  "files": [],
   "compilerOptions": {
     "strict": true,
-    "forceConsistentCasingInFileNames": true
+    "jsx": "react-jsx", // Add this for React with JSX
+    "target": "es6", // Recommended for React projects
+    "module": "esnext", // Ensure compatibility with ES modules
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   },
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
 }
