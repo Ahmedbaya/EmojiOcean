@@ -13,8 +13,11 @@
     "framer-motion": "^11.13.1",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
+<<<<<<< HEAD
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
+=======
+>>>>>>> a74979b0f5298c8fe50169e178fda494f88e65e8
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.2"
   },
@@ -22,6 +25,7 @@
     "@eslint/js": "^9.9.1",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
+    "@types/react-router-dom": "^5.3.3",
     "@vitejs/plugin-react": "^4.3.1",
     "autoprefixer": "^10.4.18",
     "eslint": "^9.9.1",
