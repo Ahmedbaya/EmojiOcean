@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "framer-motion": "^11.13.1",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
+<<<<<<< HEAD
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+=======
+>>>>>>> a74979b0f5298c8fe50169e178fda494f88e65e8
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.0.2"
   },

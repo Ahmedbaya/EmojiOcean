@@ -1,5 +1,6 @@
 import { EmojiTextGenerator } from '../Explore/EmojiTextGenerator';
 import { Globe } from './Globe';
+import { Link } from 'react-router-dom';
 
 export function Hero() {
   const scrollToBottom = () => {
